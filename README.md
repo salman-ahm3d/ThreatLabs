@@ -2,7 +2,7 @@
 A repository containing some popular attacks and how to defend against them.
 
 ## What is the purpose of this repository?
-The goal of this repository is to provide practical guidance to cybersecurity personnel on how to mitigate 5 popular attacks.
+The goal of this repository is to provide practical guidance to cybersecurity personnel on how to detect and defend against 5 popular attacks.
 
 
 1. Mimikatz Credential Dumping
